@@ -1,6 +1,6 @@
-// fn main() {
-//     println!("Hello, world!");
-// }
+fn main() {
+    println!("Hello, world!");
+}
 
 // TRAITS
 
@@ -89,21 +89,5 @@
 //  program to calculates area for different shares
 // calculate the area of the  area circle and rectangle
 // ps : interrested in use of traits
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
